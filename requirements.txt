@@ -20,7 +20,7 @@ jmespath==0.9.4
 lazy-object-proxy==1.4.1
 MarkupSafe==1.1.1
 mccabe==0.6.1
-pipenv==2018.11.26
+pipenv==2022.1.8
 promise==2.2.1
 pyasn1==0.4.5
 pylint==2.3.1
